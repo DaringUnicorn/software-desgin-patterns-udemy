@@ -1,0 +1,15 @@
+Example1\tightCoupling\Topic.class
+Example3\openClose\Square.class
+Example1\tightCoupling\TightCoupleTest.class
+Example1\looseCoupling\Subject.class
+Example2\compositionOverInheritance\IOperation.class
+Example1\looseCoupling\ITopic.class
+Example1\looseCoupling\LooseCoupleTest.class
+Example1\tightCoupling\Subject.class
+Example2\compositionOverInheritance\Test.class
+Example3\openClose\IShape.class
+Example2\compositionOverInheritance\Calculator.class
+Example2\compositionOverInheritance\Test$1sum.class
+Example1\looseCoupling\Topic.class
+Example3\openClose\Test.class
+Example3\openClose\Rectangle.class
